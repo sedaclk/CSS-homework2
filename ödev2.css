@@ -1,0 +1,80 @@
+
+
+/*Gri kutu*/
+.box{
+    width: 90%;
+    height: 72px;
+    padding: auto;
+    margin: auto;
+    border:0
+       
+}
+
+/*mavi kutular*/
+
+
+
+
+.box3{
+    background-color: #7EE5DA;
+    margin-top: 3px;
+    margin-left: 5%;
+    float: left;
+    height:79px;
+    
+
+    width:33%;
+    border: 0px;
+    padding: auto;
+    
+}
+.box5{
+    background-color: #62B3AA;
+    margin-right: 5%;
+    margin-top: 3px;
+    float: right;
+    border:0px;
+    width:39%;
+    
+
+}
+
+.box4{
+    background-color: #70CCC2;
+    margin: auto;
+    margin-top: 3px;
+    border: 0px;
+    width:23%;
+    height: 79px;
+    padding-left: 10px;
+    
+    
+    
+    
+    
+    
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+    
+
+/*Renkler*/
+.bg-white{
+    background-color: white;
+}
+    
+
+.bg-gray{
+    background-color: rgb(239, 239, 239);
+}
+    
